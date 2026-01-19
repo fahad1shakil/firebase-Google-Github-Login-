@@ -6,7 +6,7 @@ import { getAuth } from "firebase/auth";
 
 // Your web app's Firebase configuration
 const firebaseConfig = {
-  apiKey: "AIzaSyBX4ZHnKsWyrhrDgjJbe7Ma8ii84XPStrA",
+  // apiKey: "AIzaSyBX4ZHnKsWyrhrDgjJbe7Ma8ii84XPStrA",
   authDomain: "simple-dimple-auth-f2450.firebaseapp.com",
   projectId: "simple-dimple-auth-f2450",
   storageBucket: "simple-dimple-auth-f2450.firebasestorage.app",
